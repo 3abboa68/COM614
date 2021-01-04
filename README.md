@@ -1,5 +1,5 @@
-# COM615
-Repository for COM615 Code Submission
+# COM614
+Repository for COM614 Code Submission
 
 File description:
 
