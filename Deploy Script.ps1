@@ -1,6 +1,6 @@
 ﻿$stopwatch =  [system.diagnostics.stopwatch]::StartNew()
 
-#COM615
+#COM614
 #Script to automate Azure Deployment of GNS3
 #Requires -RunAsAdministrator
 
