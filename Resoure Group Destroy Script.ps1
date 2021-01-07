@@ -1,6 +1,6 @@
 ﻿$stopwatch =  [system.diagnostics.stopwatch]::StartNew()
 
-#COM615
+#COM614
 #Script to clean up after POC
 #Requires -RunAsAdministrator
 
