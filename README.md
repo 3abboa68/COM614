@@ -9,4 +9,6 @@ Prerequisite Install Scripts - Used to install tools nessesary for cloud deploym
 
 Deploy Script - Code used to deploy to Azure via Azure CLI, and install GNS3
 
+Resource Group Destory Script - Used to destroy an existing Resource Groups to allow clean up
+
 
