@@ -18,6 +18,7 @@
         }
     } else {
         Write-Warning -Message ('PS Version incompatible with this script')
+        Exit
     }
 
     #Install Azure CLI, then run updates (this ensures an existing install is current)
