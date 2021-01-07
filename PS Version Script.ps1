@@ -1,4 +1,4 @@
-#COM615
+#COM614
 #Script to retrive Powershell Version
 
 $version = Get-Host | Select-Object Version
