@@ -1,6 +1,6 @@
 ﻿$stopwatch =  [system.diagnostics.stopwatch]::StartNew()
 
-#COM615
+#COM614
 #Script to automate Tool deployment.
 
 #Stage 01 - Install tools
